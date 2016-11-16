@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhoToAnnoy</string>
+    <string name="action_settings">Settings</string>
+    <string name="annoy_button">Annoy a \"Friend\"</string>
+    <string name="annoyance_name">\"Friend\"</string>
+    <string name="annoyance_number">Number</string>
+    <string name="annoyance_date">Call Time</string>
+</resources>
